@@ -13,7 +13,7 @@
 <br>I've been focusing on <b>Data science: cleansing, processing and transforming data for business decision-making.</b> , especially with <b>Python</b> and <b>Tableu.</b></p>
 <pr>
 ## 🦾 My skills.
-🐍 PYTHON | 🐼 Pandas |🧮Numpy |🌿Folium |📶MatPlotlib| Seaborn | Scikit-learn | SciPy
+🐍 PYTHON | 🐼 Pandas |🧮Numpy |🌿Folium |📶MatPlotlib | Seaborn | Scikit-learn | SciPy
 
 🛢 MySQL |📗Excel |🍃MagoDB 
 
