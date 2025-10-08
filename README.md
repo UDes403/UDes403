@@ -42,7 +42,7 @@
 </table>
 </details>
 
-## <h2 align="center">Let's to collaborate 🤝</h2>
+## <h2 align="center">Let's collaborate 🤝</h2>
 
  
    
