@@ -6,7 +6,7 @@
 
 🛠️ I'm currently learning <b>Python Automatization, R </b> and <b>Machine Learning.</b></li>
 
-💬 You can ask me about <b>Tableu, Looker studio, PowerBI</b>...i'm happy to help!</li>
+💬 You can ask me about <b>Tableu, Looker studio, PowerBI</b>... i'm happy to help!</li>
     
   </ul>
 
