@@ -13,17 +13,17 @@
 <br>I've been focusing on <b>Data science: cleansing, processing, and transforming data for business decision-making.</b> , especially with <b>Python</b> and <b>Tableu.</b></p>
 <pr>
 ## 🦾 My skills.
-🐍 PYTHON | 🐼 Pandas |🧮Numpy |🌿Folium |📶MatPlotlib|Seaborn |Scikit-learn |SciPy
+🐍 PYTHON | 🐼 Pandas |🧮Numpy |🌿Folium |📶MatPlotlib| Seaborn | Scikit-learn | SciPy
 
-🛢 MySQL |📗Excel |MagoDB 
+🛢 MySQL |📗Excel |🍃MagoDB 
 
-📊PowerBI |📈Tableu |LookerStudio
+📊PowerBI | 📈Tableu | LookerStudio
 
-⚙️ VScode |Jupiter Notebook |GIT
+⚙️ VScode | Jupiter Notebook | GIT
 
 ☁️ AWS |🐋Docker
 <pr>
-## 🚀 My portafolio.
+## 🚀 My portafolio.<pr>
 <table>
   <thead>
     <tr>
@@ -33,6 +33,16 @@
     </tr>
   </thead>
   <tbody>
+ <tr>
+      <td><a href="_Link proyecto_">nombre proyecto</a></td>
+       <td>Herramientas usadas</td>
+      <td> descripcion del proyecto</td>
+    </tr>
+      </tbody>
+</table>
+</details>
+
+## <h2 align="center">Let's to collaborate 🤝</h2>
 
  
    
