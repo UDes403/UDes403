@@ -13,13 +13,17 @@
 <br>I've been focusing on <b>Data science: cleansing, processing and transforming data for business decision-making.</b> , especially with <b>Python</b> and <b>Tableu.</b></p>
 <pr>
 ## 🦾 My skills.
-🐍 PYTHON | 🐼 Pandas |🧮Numpy |🌿Folium |📶MatPlotlib | Seaborn | Scikit-learn | SciPy
+🐍 PYTHON | 🐼 Pandas |🧮Numpy |🌿Folium |📶MatPlotlib | 📊Seaborn | 🦾Scikit-learn | SciPy
 
-🛢 MySQL |📗Excel |🍃MagoDB 
+🔹R
+
+🐬 SQL |🍃MagoDB 
+
+📗Excel | 🗃️ Spreadsheets
 
 📊PowerBI | 📈Tableu | LookerStudio
 
-⚙️ VScode | Jupiter Notebook | GIT
+⚙️ VScode | 📙Jupiter Notebook | GIT
 
 ☁️ AWS |🐋Docker
 <pr>
@@ -34,9 +38,9 @@
   </thead>
   <tbody>
  <tr>
-      <td><a href="_Link proyecto_">nombre proyecto</a></td>
-       <td>Herramientas usadas</td>
-      <td> descripcion del proyecto</td>
+      <td><a href="https://github.com/UDes403/Traffic-accident-analysis"> Traffic accidents Spain analysis </a> </td>
+       <td>Python and diferents libraries like pandas| seaborn | matplotlib ...</td>
+      <td> This project studies the 2023 traffic accident data set in Spain provided directly by DTG. </td>
     </tr>
       </tbody>
 </table>
