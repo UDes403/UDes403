@@ -17,7 +17,7 @@
 
 🔹R
 
-🐬 SQL |🍃MagoDB 
+🐬 SQL |🍃MagoDB | BigQuery
 
 📗Excel | 🗃️ Spreadsheets
 
