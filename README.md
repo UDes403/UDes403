@@ -1,11 +1,12 @@
 # Hi everyone, I'm Laura
 ## 💡About Me
+
 <b>🏦Banking Management & Financial Institutions Data Analyst.</b> I'm always looking for new challenges.<br>
 
 📍 Based near <b>Spain.</b></li>
 
 🛠️ 
-i work with <b>Python Automatization, R </b> and <b>PowerBi</b> to turn data into business insights.</li>
+i work with <b>Python Automatization, R </b> and <b>PowerBi</b> to turn data into business insights.
     
   </ul>
 
@@ -29,9 +30,9 @@ i work with <b>Python Automatization, R </b> and <b>PowerBi</b> to turn data int
 ## 🚀 My portafolio.<pr>
 What you'll find here.
 
--Data analysis projects using real public dataset.
+<li>-Data analysis projects using real public dataset.
 -BI dashboards focused on KPIs and business questions.
--End-to-End projects.
+-End-to-End projects.</li>
 
 <table>
   <thead>
