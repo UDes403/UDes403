@@ -30,9 +30,9 @@ i work with <b>Python Automatization, R </b> and <b>PowerBi</b> to turn data int
 ## 🚀 My portafolio.<pr>
 What you'll find here.
 
-<li>-Data analysis projects using real public dataset.
--BI dashboards focused on KPIs and business questions.
--End-to-End projects.</li>
+<li>Data analysis projects using real public dataset.</li>
+<li>BI dashboards focused on KPIs and business questions.</li>
+<li>End-to-End projects.</li>
 
 <table>
   <thead>
