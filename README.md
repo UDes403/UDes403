@@ -4,9 +4,8 @@
 
 📍 Based near <b>Spain.</b></li>
 
-🛠️ I'm currently learning <b>Python Automatization, R </b> and <b>Machine Learning.</b></li>
-
-💬 You can ask me about <b>Tableu, Looker studio, PowerBI</b>... i'm happy to help!</li>
+🛠️ 
+i work with <b>Python Automatization, R </b> and <b>PowerBi</b> to turn data into business insights.</li>
     
   </ul>
 
@@ -28,6 +27,12 @@
 ☁️ AWS |🐋Docker
 <pr>
 ## 🚀 My portafolio.<pr>
+What you'll find here.
+
+-Data analysis projects using real public dataset.
+-BI dashboards focused on KPIs and business questions.
+-End-to-End projects.
+
 <table>
   <thead>
     <tr>
