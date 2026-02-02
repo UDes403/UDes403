@@ -32,7 +32,8 @@ What you'll find here.<pr>
 
 <li>Data analysis projects using real public dataset.</li>
 <li>BI dashboards focused on KPIs and business questions.</li>
-<li>End-to-End projects.</li><pr>
+<li>End-to-End projects.</li>
+<pr>
 
 <table>
   <thead>
