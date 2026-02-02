@@ -28,7 +28,8 @@ i work with <b>Python Automatization, R </b> and <b>PowerBi</b> to turn data int
 ☁️ AWS |🐋Docker
 <pr>
 ## 🚀 My portafolio.<pr>
-What you'll find here.
+What you'll find here.<pr>
+
 
 <li>Data analysis projects using real public dataset.</li>
 <li>BI dashboards focused on KPIs and business questions.</li>
