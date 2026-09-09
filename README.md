@@ -45,24 +45,18 @@ What you'll find here.
 * BI dashboards focused on KPIs and business questions.</li>
 * End-to-End projects.
 
+| Project Name | Skills used | Description |
+| :---: | :---: | :--- |
+|[Traffic accidents Spain analysis 2023](https://github.com/UDes403/Traffic-accident-analysis) |**Python** WebScraping and diferents libraries like pandas, seaborn, matplotlib | This project studies the 2023 traffic accident data set in Spain provided directly by DTG. |
 
-<table>
-  <thead>
-    <tr>
-      <th>Project Name</th>
-      <th>Skills used</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
- <tr>
-      <td><a href="https://github.com/UDes403/Traffic-accident-analysis"> Traffic accidents Spain analysis </a> </td>
-       <td>Python and diferents libraries like pandas| seaborn | matplotlib ...</td>
-      <td> This project studies the 2023 traffic accident data set in Spain provided directly by DTG. </td>
-    </tr>
-      </tbody>
-</table>
-</details>
+
+
+
+
+
+
+
+     
 
 ## <h2 align="center">Let's collaborate 🤝</h2>
 
